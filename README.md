@@ -19,7 +19,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/RichardThienDuong/Survey-Form">
-    <img src="Screen Shot 2023-05-25 at 3.28.17 AM.png" alt="Logo" width="80" height="80">
+    <img src="Screen Shot 2023-05-25 at 3.28.17 AM.png" alt="Logo" width="300" height="300">
   </a>
 
 <h3 align="center">Survey Form</h3>
