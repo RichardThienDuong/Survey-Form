@@ -211,6 +211,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Javascript-url]: https://www.javascript.com/
 [HTML]: https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=61DAFB
 [HTML-url]: https://html.com/
-[CSS]: https://img.shields.io/badge/CSS-35495E?style=for-the-badge&logo=css&logoColor=4FC08D
+[CSS]: https://img.shields.io/badge/CSS-35495E?style=for-the-badge&logo=css3&logoColor=4FC08D
 [CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 
