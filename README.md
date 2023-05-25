@@ -25,12 +25,12 @@
 <h3 align="center">Survey Form</h3>
 
   <p align="center">
-    project_description
+    To showcase a simple marketing/analytics page with clean UI 
     <br />
     <a href="https://github.com/RichardThienDuong/Survey-Form"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/RichardThienDuong/Survey-Form">View Demo</a>
+    <a href="https://richardthienduong.github.io/Survey-Form/">View Demo</a>
     ·
     <a href="https://github.com/RichardThienDuong/Survey-Form/issues">Report Bug</a>
     ·
